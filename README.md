@@ -27,18 +27,18 @@ Wish you a good-looking profile README!
 
 -->
 
-## Hey, iceloX here! :wave: [![ ](https://cfrating.ihcr.top/?user=iceloX&style=flat-square)](https://codeforces.com/profile/iceloX)
+## Hey, iceloX here! :wave: 
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ouuan&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
 I'm **icelo**, a student at Aiit.
 
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
+-   :hammer_and_pick: Java/Python/GitHub Actions, a little bit C++/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Firefox
+-   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Chrome
 -   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
 -   :man: Pronouns: he/him
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+-   :key: GPG key: [`981F8107D744883B`](https://github.com/icelox.gpg)
 
 ---
 
