@@ -27,11 +27,11 @@ Wish you a good-looking profile README!
 
 -->
 
-## Hey, iceloX here! :wave: 
+## Hey, icelo here! :wave: 
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=icelox&theme=dark&show_icons=true">](https://metrics.lecoq.io/icelox?template=classic)
 
-I'm **iceloX**, a student at Aiit.
+I'm **icelo**, a student at Aiit.
 
 -   :hammer_and_pick: Java/Python/GitHub Actions, a little bit C++/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
