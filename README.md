@@ -62,6 +62,8 @@ I'm **icelo**, a student at Aiit.
 
 #### :bar_chart: Weekly development breakdown
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=icelox&layout=compact)
+
 <!--START_SECTION:waka-->
 ```text
 Markdown     4 hrs 46 mins   ██████████▒░░░░░░░░░░░░░░   41.85 % 
