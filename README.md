@@ -64,16 +64,6 @@ I'm **icelo**, a student at Aiit.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=icelox&layout=compact)
 
-<!--START_SECTION:waka-->
-```text
-Markdown     4 hrs 46 mins   ██████████▒░░░░░░░░░░░░░░   41.85 % 
-C++          2 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-YAML         1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-JavaScript   1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-```
-<!--END_SECTION:waka-->
-
 ---
 
 #### :star2: Projects starred by me
